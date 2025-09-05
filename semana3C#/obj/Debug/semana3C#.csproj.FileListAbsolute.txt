@@ -1,0 +1,2 @@
+C:\Users\UPN\Desktop\semana3\fundamento\semana3C#\obj\Debug\semana3C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\semana3\fundamento\semana3C#\obj\Debug\semana3C#.csproj.CoreCompileInputs.cache

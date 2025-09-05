@@ -1,27 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace semana3C_
 {
+    [DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
     internal class Program
     {
         static void Main(string[] args)
         {
-            ejer1();
-            Console.ReadKey(); //realizando detenimiento de consola
-            
-            static void ejer1();
-            {
-                
-                    string nombre, carrera;
+            ejer2();
+            Console.ReadKey(); 
+        }
 
-                    Console.Write("Ingrse su nombre");
-                    nombre = 
-        
-            
-            }
-    }
-}
+        private string GetDebuggerDisplay()
+        {
+            return ToString();
+        }

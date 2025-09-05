@@ -5,3 +5,8 @@ def ejer1():
     print(f"\n{nombre}, biemvenido al curso FA de {carrera}")
 
 ejer1()
+
+def ejer2():
+    print("\"Yordan\"")
+
+ejer2()

@@ -7,16 +7,30 @@ using System.Threading.Tasks;
 
 namespace semana3C_
 {
-    [DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
+ 
     internal class Program
     {
         static void Main(string[] args)
         {
-            ejer2();
-            Console.ReadKey(); 
+            ejer3();
+            Console.ReadKey();
         }
 
-        private string GetDebuggerDisplay()
+        static void ejer3()
         {
-            return ToString();
+            Console.WriteLine("Ingrese x: ");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese y: ");
+            int y = int.Parse(Console.ReadLine());
+
+            int sum = x + y;
+            double divi = (double)x / (double)y;
+
+            Console.WriteLine("\nSuma: "+sum);
+            Console.WriteLine("\nResta: " + (x - y));
+            Console.WriteLine("\nMulti: " + (x * y));
+            Console.WriteLine("\nDivi: " + (x / y)+ divi);
         }
+    }
+}

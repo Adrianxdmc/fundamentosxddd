@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\bin\Debug\ejercicio 4.exe.config
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\bin\Debug\ejercicio 4.exe
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\bin\Debug\ejercicio 4.pdb
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\obj\Debug\ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\obj\Debug\ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\obj\Debug\ejercicio 4.exe
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\obj\Debug\ejercicio 4.pdb
+C:\Users\UPN\Desktop\fundamentosxddd\ejercicio 4\obj\Debug\ejercicio 4.exe.config

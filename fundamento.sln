@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semana3C#", "semana3C#\sema
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{B0EEAAF0-C87E-4D28-93A2-87096F3AD298}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2", "PythonApplication2\PythonApplication2.pyproj", "{7DC77A7A-8892-42B6-835F-E44BDF8F0729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,8 @@ Global
 		{25270757-271D-4A63-9224-FCDF2FFAB4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0EEAAF0-C87E-4D28-93A2-87096F3AD298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0EEAAF0-C87E-4D28-93A2-87096F3AD298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC77A7A-8892-42B6-835F-E44BDF8F0729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC77A7A-8892-42B6-835F-E44BDF8F0729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

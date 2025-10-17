@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYovYNmqA/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UPN\\Desktop\\clone\\fundamentosxddd\\Semana9\\ConsoleApplication1\\ConsoleApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UPN\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

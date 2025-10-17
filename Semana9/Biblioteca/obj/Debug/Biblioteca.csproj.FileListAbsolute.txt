@@ -1,0 +1,2 @@
+C:\Users\UPN\Desktop\clone\fundamentosxddd\Semana9\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\clone\fundamentosxddd\Semana9\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
